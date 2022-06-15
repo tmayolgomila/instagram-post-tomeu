@@ -1,0 +1,86 @@
+body{
+    background: black;
+    display: flex;
+    justify-content: center;
+    font-family: 'Dosis', sans-serif;
+ 
+}
+.post{
+    background: white;
+    width: 700px;
+    height: 900px;
+}
+
+.fa-camera{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+.nombre{
+    margin-left: 40px;
+}
+
+
+.circulo{
+    display: flex;
+    flex-direction: column;
+   
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 650px;
+   
+}
+.circulo1{
+    display: flex;
+    width: 10px;
+    height: 10px;
+    background: black;
+    border-radius: 50%;
+   
+    
+}
+.circulo2{
+
+    width: 10px;
+    height: 10px;
+    background: black;
+    border-radius: 50%;
+   
+}
+.circulo3{
+
+    width: 10px;
+    height: 10px;
+    background: black;
+    border-radius: 50%;
+    
+}
+
+
+
+
+
+.contenedor2{
+    display: flex;
+   justify-content: center;
+    width: 680px;
+    height: 350px;
+    margin: 5px 10px 10px 10px;
+}
+
+.contenedor3{
+    margin: 8px 5px 10px 10px;
+    text-align:left;
+}
+.tags{
+    margin-bottom: 20px;
+}
+.fa-tag{
+    float: right;
+    margin-right: 20px;
+}
+.texto1{
+    margin-bottom: 20px;
+}
+
